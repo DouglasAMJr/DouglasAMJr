@@ -11,6 +11,9 @@ I am a dedicated professional passionate about the world of information technolo
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
+## Project Delivered
+<a href="www.bluteen.com.br">www.bluteen.com.br</a>
+
 ## Tecnologies
 
 ### Frontend
