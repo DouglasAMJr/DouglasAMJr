@@ -12,7 +12,7 @@ I am a dedicated professional passionate about the world of information technolo
 </a>
 
 ## Project Delivered
-<a href="www.bluteen.com.br">www.bluteen.com.br</a>
+<a href="https://www.bluteen.com.br">www.bluteen.com.br</a>
 
 ## Tecnologies
 
